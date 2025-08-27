@@ -141,7 +141,7 @@ Ensure JWT token is included in headers for protected routes.
 
 A full Postman collection is included for testing all endpoints.
 
-- 📁 File: [`healthcare_backend.postman_collection.json`](assets/healthcare_backend.postman_collection.json)
+- 📁 File: [`assets/healthcare_backend.postman_collection`](assets/healthcare_backend.postman_collection)
 - 📸 Screenshot below shows a successful JWT-authenticated request to a protected endpoint.
 : ![JWT Test in Postman](assets/Testing.png)
 
